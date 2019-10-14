@@ -38,6 +38,7 @@
     "phpunit/phpunit": "6.2"
   },
   "require": {
-    "nancheng/pfinal-config": "dev-master"
+    "nancheng/pfinal-config": "dev-master",
+    "nancheng/pfinal-response": "dev-master"
   }
 }
